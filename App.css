@@ -1,0 +1,18 @@
+/* *{
+    padding :0;
+    margin    :0;
+}.App{
+    font:small-caption;
+    background-color:rgb(79, 223, 215), 250);
+font-family:sans-serif;
+}
+.container{                      
+    display:flex
+} */
+
+button{
+    background-color:yellow;
+    border:none;
+    padding: 10px 15px;
+    font-size: 20px;
+}
